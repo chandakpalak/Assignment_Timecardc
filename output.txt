@@ -1,0 +1,14 @@
+b)
+Employee: CEreira Jr, JEse, Position: WFS000456 has less than 10 hours between shifts but more than 1 hour.
+Employee: CaMaXaWE, CeghaW, Position: WFS000153 has less than 10 hours between shifts but more than 1 hour.
+Employee: CaMaXaWE, CeghaW, Position: WFS000153 has less than 10 hours between shifts but more than 1 hour.
+Employee: De Xa Cerda, IgWaciE, Position: WFS000318 has less than 10 hours between shifts but more than 1 hour.
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523 has less than 10 hours between shifts but more than 1 hour.
+Employee: HaCiXMEW, DeaWMe DevEW, Position: WFS000536 has less than 10 hours between shifts but more than 1 hour.
+Employee: MraW, WiXXiaC Ha, Position: WFS000345 has less than 10 hours between shifts but more than 1 hour.
+Employee: REdrigAez, GraWdEW AWgeX, Position: WFS000550 has less than 10 hours between shifts but more than 1 hour.
+Employee: Xee, XaCar, Position: WFS000200 has less than 10 hours between shifts but more than 1 hour.
+Employee: Xee, XaCar, Position: WFS000200 has less than 10 hours between shifts but more than 1 hour.
+Employee: Xee, XaCar, Position: WFS000200 has less than 10 hours between shifts but more than 1 hour.
+c)
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523 has worked for more than 14 hours in a single shift.
